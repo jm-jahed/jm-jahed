@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚡ Jahangir Jahed (`@jm-jahed`)
+# ⚡ Md Jahedul Islam (`@jm-jahed`)
 ### **Founder & CEO @ Web Studio AE | Full-Stack Web & AI Engineer**
 
 *Building ultra-premium digital platforms, AI-powered web applications, and enterprise web solutions in Dubai & globally.*
@@ -95,6 +95,6 @@ I am a full-stack web application engineer and digital product architect based i
 
 <div align="center">
 
-*© 2026 Jahangir Jahed. Engineered with precision & modern web technologies.*
+*© 2026 Md Jahedul Islam. Engineered with precision & modern web technologies.*
 
 </div>
