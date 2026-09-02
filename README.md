@@ -75,9 +75,9 @@ I am a full-stack software engineer and digital product architect based in Dubai
 
 ---
 
-## 🏆 Featured Repositories & Portfolio Ecosystem (Projects #01 — #51)
+## 🏆 Featured Repositories & Portfolio Ecosystem (Projects #01 — #66)
 
-Explore the full suite of **51 bespoke, production-ready UAE industry platforms** built with Next.js 16, TypeScript, and Tailwind CSS:
+Explore the full suite of **66 bespoke, production-ready UAE industry platforms** built with Next.js 16, TypeScript, and Tailwind CSS:
 
 | Project | Brand Name | Industry / Category | Live Demo URL | GitHub Repository |
 | :---: | :--- | :--- | :---: | :---: |
@@ -132,6 +132,21 @@ Explore the full suite of **51 bespoke, production-ready UAE industry platforms*
 | **#49** | **BARAKAH AL RIZQ** | Foodstuff & Commodities Trading | [🌐 Live Demo](https://webstudioae.com/work/foodstuff-trading) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
 | **#50** | **ALTAIR ACADEMY** | Premium Private K–12 School | [🌐 Live Demo](https://webstudioae.com/work/private-school) | [`project-50-private-school`](https://github.com/jm-jahed/project-50-private-school) |
 | **#51** | **FRAMEHAUS** | Photography & Creative Studio | [🌐 Live Demo](https://webstudioae.com/work/photography-creative-studio) | [`project-51-photography-creative-studio`](https://github.com/jm-jahed/project-51-photography-creative-studio) |
+| **#52** | **VITA CELL** | Sovereign Longevity & Cellular Bio-Clinic | [🌐 Live Demo](https://webstudioae.com/work/longevity-cellular-clinic) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#53** | **VALKYRIE HYPERCARS** | Bespoke Coachbuilding & Carbon Tuning | [🌐 Live Demo](https://webstudioae.com/work/hypercar-coachbuilding) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#54** | **SOLARIS HYDROGEN** | Utility Solar & Green Hydrogen Infrastructure | [🌐 Live Demo](https://webstudioae.com/work/clean-energy-hydrogen) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#55** | **CYBERFORTRESS** | Sovereign AI SOC & Critical Infrastructure Defense | [🌐 Live Demo](https://webstudioae.com/work/sovereign-cybersecurity) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#56** | **ROYAL FALCONRY** | Elite UAE Falcon Genetics & Avian Hospital | [🌐 Live Demo](https://webstudioae.com/work/royal-falconry-sanctuary) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#57** | **FINTECH NEXUS** | Institutional Digital Asset Vault & Crypto Liquidity Hub | [🌐 Live Demo](https://webstudioae.com/work/institutional-crypto-vault) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#58** | **AURA SMART HOMES** | Luxury Villa Automation & Audio Atelier | [🌐 Live Demo](https://webstudioae.com/work/luxury-villa-automation) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#59** | **VELOCITY AVIATION** | Executive Jet Charter & Aircraft Management | [🌐 Live Demo](https://webstudioae.com/work/executive-jet-charter) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#60** | **NERO MARINE** | Superyacht Charter, Yacht Management & Marine Luxury | [🌐 Live Demo](https://webstudioae.com/work/superyacht-charter) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#61** | **SOLARIA PRIVATE ISLAND** | Ultra-Luxury Private Island Resort & Destination Retreat | [🌐 Live Demo](https://webstudioae.com/work/private-island-resort) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#62** | **MAISON ÉCLAT** | Private Gastronomy Atelier & Michelin Residencies | [🌐 Live Demo](https://webstudioae.com/work/private-gastronomy-atelier) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#63** | **AURELIA ESTATES** | Ultra-Luxury Private Residences & Property Development | [🌐 Live Demo](https://webstudioae.com/work/luxury-real-estate-development) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#64** | **AURELIS AUTO CARE** | Premium Car Wash & Auto Detailing Platform | [🌐 Live Demo](https://webstudioae.com/work/car-detailing-ceramic-coating) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#65** | **EVERA WEDDINGS** | Premium UAE Luxury Wedding Planning & Design | [🌐 Live Demo](https://webstudioae.com/work/wedding-planning) | [`webstudioae.com`](https://github.com/jm-jahed/webstudioae.com) |
+| **#66** | **NEXORA PAY** | FinTech & Payments Platform | [🌐 Live Demo](https://webstudioae.com/work/fintech-payments) | [`nexora-pay`](https://github.com/jm-jahed/nexora-pay) |
 
 
 ---
@@ -147,6 +162,21 @@ I partner with business owners, startups, and agencies to design and deliver:
 
 ---
 
+## 📊 GitHub Activity & Real-Time Contribution Matrix
+
+<div align="center">
+
+![Md Jahedul Islam's GitHub Contribution Chart](https://ghchart.rshah.org/38B2AC/jm-jahed)
+
+<br/>
+
+![Public & Private Repositories](https://img.shields.io/badge/Total_Repositories-63_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white)
+![Platform Projects](https://img.shields.io/badge/Enterprise_Projects-50%2B_UAE_Platforms-D97706?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Build Success Rate](https://img.shields.io/badge/Build_Success-100%25_Prerendered-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)
+
+</div>
+
+---
 
 ## 📬 Contact & Connect
 
