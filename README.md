@@ -147,21 +147,6 @@ I partner with business owners, startups, and agencies to design and deliver:
 
 ---
 
-## 📊 GitHub Activity & Real-Time Contribution Matrix
-
-<div align="center">
-
-![Md Jahedul Islam's GitHub Contribution Chart](https://ghchart.rshah.org/38B2AC/jm-jahed)
-
-<br/>
-
-![Public & Private Repositories](https://img.shields.io/badge/Total_Repositories-63_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white)
-![Platform Projects](https://img.shields.io/badge/Enterprise_Projects-50%2B_UAE_Platforms-D97706?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Build Success Rate](https://img.shields.io/badge/Build_Success-100%25_Prerendered-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)
-
-</div>
-
----
 
 ## 📬 Contact & Connect
 
