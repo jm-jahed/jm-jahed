@@ -75,9 +75,9 @@ I am a full-stack software engineer and digital product architect based in Dubai
 
 ---
 
-## 🏆 Featured Repositories & Portfolio Ecosystem (Projects #01 — #66)
+## 🏆 Featured Repositories & Portfolio Ecosystem (Projects #01 — #67)
 
-Explore the full suite of **66 bespoke, production-ready UAE industry platforms** built with Next.js 16, TypeScript, and Tailwind CSS:
+Explore the full suite of **67 bespoke, production-ready UAE industry platforms** built with Next.js 16, TypeScript, and Tailwind CSS:
 
 | Project | Brand Name | Industry / Category | Live Demo URL | GitHub Repository |
 | :---: | :--- | :--- | :---: | :---: |
@@ -147,6 +147,7 @@ Explore the full suite of **66 bespoke, production-ready UAE industry platforms*
 | **#64** | **AURELIS AUTO CARE** | Premium Car Wash & Auto Detailing Platform | [🌐 Live Demo](https://webstudioae.com/work/car-detailing-ceramic-coating) | [`project-64-car-detailing-ceramic-coating`](https://github.com/jm-jahed/project-64-car-detailing-ceramic-coating) |
 | **#65** | **EVERA WEDDINGS** | Premium UAE Luxury Wedding Planning & Design | [🌐 Live Demo](https://webstudioae.com/work/wedding-planning) | [`project-65-wedding-planning`](https://github.com/jm-jahed/project-65-wedding-planning) |
 | **#66** | **NEXORA PAY** | FinTech & Payments Platform | [🌐 Live Demo](https://webstudioae.com/work/fintech-payments) | [`project-66-fintech-payments`](https://github.com/jm-jahed/project-66-fintech-payments) |
+| **#67** | **NOVA REMIT** | UAE Global Money Exchange & Cross-Border Remittance | [🌐 Live Demo](https://webstudioae.com/work/money-exchange-remittance) | [`project-67-money-exchange-remittance`](https://github.com/jm-jahed/project-67-money-exchange-remittance) |
 
 
 ---
