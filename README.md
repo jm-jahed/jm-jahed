@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Md Jahedul Islam (`@jm-jahed`)
+# 👑 Md Jahedul Islam (`@jm-jahed`)
 ### **Founder & CEO @ Web Studio AE | Full-Stack Web & AI Application Engineer**
 
 *Architecting ultra-premium digital platforms, AI-powered web applications, and enterprise web solutions in Dubai & globally.*
@@ -15,12 +15,12 @@
 
 ## 🌌 Overview & Positioning
 
-I am a full-stack software engineer and digital product architect based in Dubai, United Arab Emirates. As the Founder & Lead Engineer at **[Web Studio AE](https://www.linkedin.com/company/webstudioae)**, I build bespoke, high-performance web applications, AI-integrated workflow tools, and enterprise-grade platforms tailored for corporate, real estate, education, luxury retail, and healthcare brands.
+I am a full-stack software engineer and digital product architect based in Dubai, United Arab Emirates. As the Founder & Lead Engineer at **[Web Studio AE](https://www.linkedin.com/company/webstudioae)**, I build bespoke, high-performance web applications, AI-integrated workflow tools, and enterprise-grade platforms tailored for corporate, real estate, education, luxury retail, logistics, fintech, gaming, and healthcare brands.
 
-- 🏙️ **Enterprise Engineering**: Architected **50+ standalone production-grade web applications** across the UAE market.
-- ⚡ **Modern Stack**: Next.js 16 (App Router & Webpack), React 19, TypeScript 5, Tailwind CSS 4, and Node.js REST APIs.
+- 🏙️ **Enterprise Engineering**: Architected **80+ standalone production-grade web applications** across the UAE market.
+- ⚡ **Modern Stack**: Next.js 16 (App Router & Turbopack), React 19, TypeScript 5, Tailwind CSS 4, and Node.js REST APIs.
 - 🤖 **AI & Automation**: Autonomous build automation scripts, AI-assisted component pipelines, prompt engineering, and dynamic dataset engines.
-- 🛡️ **Production Standard**: 100% static prerendering (58/58 routes), strict TypeScript compilation, zero build errors, and responsive mobile accessibility.
+- 🛡️ **Production Standard**: 100% static prerendering (109/109 routes), strict TypeScript compilation, zero build errors, and responsive mobile accessibility.
 
 ---
 
@@ -30,15 +30,15 @@ I am a full-stack software engineer and digital product architect based in Dubai
 ┌──────────────────────────────────────────────────────────────────────────────────┐
 │                             ENGINEERING ARCHITECTURE                             │
 ├───────────────────────────────┬──────────────────────────────────────────────────┤
-│ AI Workflow Automation        │ Autonomous component synthesis & Python build    │
-│ Next.js 16 Webpack Pipelines  │ Sub-5s static route prerendering (58/58 routes)  │
+│ AI Workflow Automation        │ Autonomous component synthesis & build pipelines │
+│ Next.js 16 Webpack / Turbopack│ Sub-second route prerendering (109/109 routes)   │
 │ Type-Safe Architecture        │ 100% TypeScript schemas & modular datasets       │
-│ Business Logic Engines        │ Interactive ROI calculators & matching tools     │
+│ Business Logic Engines        │ Interactive ROI calculators, builders & telemetry│
 └───────────────────────────────┴──────────────────────────────────────────────────┘
 ```
 
-- 🤖 **AI-Assisted Web Workflows**: Developing automated python orchestration scripts to generate, audit, and compile multi-component project suites.
-- 🧠 **Dynamic Calculation Engines**: Building interactive yield calculators, loan estimators, tuition calculators, and studio package builders.
+- 🤖 **AI-Assisted Web Workflows**: Developing automated orchestration scripts to generate, audit, and compile multi-component project suites.
+- 🧠 **Dynamic Calculation Engines**: Building interactive yield calculators, loan estimators, tuition calculators, studio package builders, and real-time telemetry simulators.
 - ⚡ **Zero-Leak Quality Assurance**: Automated code auditing to enforce strict brand isolation, zero console errors, and zero horizontal overflow.
 
 ---
@@ -75,9 +75,9 @@ I am a full-stack software engineer and digital product architect based in Dubai
 
 ---
 
-## 🏆 Featured Repositories & Portfolio Ecosystem (Projects #01 — #67)
+## 🏆 Featured Repositories & Portfolio Ecosystem (Projects #01 — #80)
 
-Explore the full suite of **67 bespoke, production-ready UAE industry platforms** built with Next.js 16, TypeScript, and Tailwind CSS:
+Explore the full suite of **80 bespoke, production-ready UAE industry platforms** built with Next.js 16, TypeScript, and Tailwind CSS:
 
 | Project | Brand Name | Industry / Category | Live Demo URL | GitHub Repository |
 | :---: | :--- | :--- | :---: | :---: |
@@ -110,7 +110,7 @@ Explore the full suite of **67 bespoke, production-ready UAE industry platforms*
 | **#27** | **NOURA ABAYA** | Haute Couture & Modest Fashion | [🌐 Live Demo](https://webstudioae.com/work/abaya-fashion) | [`project-27-abaya-fashion`](https://github.com/jm-jahed/project-27-abaya-fashion) |
 | **#28** | **OASIRA** | Luxury Resorts & Holiday Booking | [🌐 Live Demo](https://webstudioae.com/work/resort-holiday-booking) | [`project-28-resort-holiday-booking`](https://github.com/jm-jahed/project-28-resort-holiday-booking) |
 | **#29** | **NEXORA BUSINESS** | Corporate Business Consultancy | [🌐 Live Demo](https://webstudioae.com/work/business-consultancy) | [`project-29-business-consultancy`](https://github.com/jm-jahed/project-29-business-consultancy) |
-| **#30** | **VERITAS LEGAL** | Corporate Law & Legal Services | [🌐 Live Demo](https://webstudioae.com/work/corporate-law-firm) | [`project-30-corporate-law-firm`](https://github.com/jm-jahed/project-30-corporate-law-firm) |
+| **#30** | **VALOR LEGAL** | Corporate Law & Legal Services | [🌐 Live Demo](https://webstudioae.com/work/corporate-law-firm) | [`project-30-corporate-law-firm`](https://github.com/jm-jahed/project-30-corporate-law-firm) |
 | **#31** | **LEDGERA** | Accounting, Tax & Compliance | [🌐 Live Demo](https://webstudioae.com/work/accounting-tax-consultancy) | [`project-31-accounting-tax-consultancy`](https://github.com/jm-jahed/project-31-accounting-tax-consultancy) |
 | **#32** | **AUREN CAPITAL** | Private Wealth & Financial Advisory | [🌐 Live Demo](https://webstudioae.com/work/financial-advisory) | [`project-32-financial-advisory`](https://github.com/jm-jahed/project-32-financial-advisory) |
 | **#33** | **NESTORA** | Property & Tenant Management | [🌐 Live Demo](https://webstudioae.com/work/property-management) | [`project-33-property-management`](https://github.com/jm-jahed/project-33-property-management) |
@@ -146,9 +146,21 @@ Explore the full suite of **67 bespoke, production-ready UAE industry platforms*
 | **#63** | **AURELIA ESTATES** | Ultra-Luxury Private Residences & Property Development | [🌐 Live Demo](https://webstudioae.com/work/luxury-real-estate-development) | [`project-63-luxury-real-estate-development`](https://github.com/jm-jahed/project-63-luxury-real-estate-development) |
 | **#64** | **AURELIS AUTO CARE** | Premium Car Wash & Auto Detailing Platform | [🌐 Live Demo](https://webstudioae.com/work/car-detailing-ceramic-coating) | [`project-64-car-detailing-ceramic-coating`](https://github.com/jm-jahed/project-64-car-detailing-ceramic-coating) |
 | **#65** | **EVERA WEDDINGS** | Premium UAE Luxury Wedding Planning & Design | [🌐 Live Demo](https://webstudioae.com/work/wedding-planning) | [`project-65-wedding-planning`](https://github.com/jm-jahed/project-65-wedding-planning) |
-| **#66** | **NEXORA PAY** | FinTech & Payments Platform | [🌐 Live Demo](https://webstudioae.com/work/fintech-payments) | [`project-66-fintech-payments`](https://github.com/jm-jahed/project-66-fintech-payments) |
+| **#66** | **NEXORA PAY** | FinTech & High-Volume Payment Gateway | [🌐 Live Demo](https://webstudioae.com/work/fintech-payments) | [`nexora-pay`](https://github.com/jm-jahed/nexora-pay) |
 | **#67** | **NOVA REMIT** | UAE Global Money Exchange & Cross-Border Remittance | [🌐 Live Demo](https://webstudioae.com/work/money-exchange-remittance) | [`project-67-money-exchange-remittance`](https://github.com/jm-jahed/project-67-money-exchange-remittance) |
-
+| **#68** | **TENSORIS** | Enterprise Cognitive AI Platform & Autonomous Agent Matrix | [🌐 Live Demo](https://webstudioae.com/work/artificial-intelligence) | [`project-68-artificial-intelligence`](https://github.com/jm-jahed/project-68-artificial-intelligence) |
+| **#69** | **DESERT MIRAGE SAFARIS** | Luxury Desert Expeditions & Starlit Culinary Retreats | [🌐 Live Demo](https://webstudioae.com/work/desert-safari-adventure) | [`project-69-desert-mirage-safaris`](https://github.com/jm-jahed/project-69-desert-mirage-safaris) |
+| **#70** | **STRATOSYN** | Distributed Cloud Infrastructure & Global Compute Fabric | [🌐 Live Demo](https://webstudioae.com/work/cloud-computing) | [`project-70-cloud-computing`](https://github.com/jm-jahed/project-70-cloud-computing) |
+| **#71** | **AQUAVANTA** | Intelligent Water Infrastructure & Smart Utility Twin | [🌐 Live Demo](https://webstudioae.com/work/water-supply) | [`project-71-water-supply`](https://github.com/jm-jahed/project-71-water-supply) |
+| **#72** | **VIRELIS** | Diagnostic Intelligence Platform & Connected Medical Workflows | [🌐 Live Demo](https://webstudioae.com/work/medical-diagnostics) | [`project-72-medical-diagnostics`](https://github.com/jm-jahed/project-72-medical-diagnostics) |
+| **#73** | **MEDIVANTA** | Intelligent Medicine Delivery Network & Healthcare Logistics | [🌐 Live Demo](https://webstudioae.com/work/medicine-supply) | [`project-73-medicine-supply`](https://github.com/jm-jahed/project-73-medicine-supply) |
+| **#74** | **AEROVIA** | Intelligent Global Travel Platform & Flight/Hotel Booking | [🌐 Live Demo](https://webstudioae.com/work/flight-hotel-booking) | [`project-74-flight-hotel-booking`](https://github.com/jm-jahed/project-74-flight-hotel-booking) |
+| **#75** | **VELORA** | Private Wellness & Recovery Sanctuary | [🌐 Live Demo](https://webstudioae.com/work/luxury-spa-wellness) | [`project-75-luxury-spa-wellness`](https://github.com/jm-jahed/project-75-luxury-spa-wellness) |
+| **#76** | **FROSTVAULT** | Intelligent Cold Chain Infrastructure & Smart Warehouse Management | [🌐 Live Demo](https://webstudioae.com/work/cold-storage-warehousing) | [`project-76-cold-storage-warehousing`](https://github.com/jm-jahed/project-76-cold-storage-warehousing) |
+| **#77** | **PRESSORA** | Precision Print & Brand Production Operating System | [🌐 Live Demo](https://webstudioae.com/work/printing-company) | [`project-77-printing-company`](https://github.com/jm-jahed/project-77-printing-company) |
+| **#78** | **EMBERWILD** | Luxury Wilderness Stays & Outdoor Experiences | [🌐 Live Demo](https://webstudioae.com/work/glamping-camping) | [`project-78-glamping-camping`](https://github.com/jm-jahed/project-78-glamping-camping) |
+| **#79** | **NEXARA** | The Next Generation Connected Gaming Ecosystem | [🌐 Live Demo](https://webstudioae.com/work/gaming) | [`project-79-gaming`](https://github.com/jm-jahed/project-79-gaming) |
+| **#80** | **FLAME & FLOUR** | Artisan Baking House & Digital Bakery Experience | [🌐 Live Demo](https://webstudioae.com/work/artisan-bakery) | [`project-80-artisan-bakery`](https://github.com/jm-jahed/project-80-artisan-bakery) |
 
 ---
 
@@ -159,7 +171,8 @@ I partner with business owners, startups, and agencies to design and deliver:
 - 💼 **Corporate & Business Centers**: Serviced office pricing tools, virtual tour modals, and lease agreements.
 - 🎓 **Education & Tech Academies**: Interactive program matchers, admissions calculators, and course drawers.
 - 📸 **Creative Studios & Agency Portals**: Full-bleed media sliders, lightbox galleries, and shoot package estimators.
-- 🛍️ **Luxury Retail & E-Commerce**: Haute couture, perfume ateliers, and jewelry showcases.
+- 🛍️ **Luxury Retail & E-Commerce**: Haute couture, perfume ateliers, custom print systems, artisan bakeries, and jewelry showcases.
+- 🎮 **Gaming, Travel & Logistics**: Dual booking search engines, live match simulations, warehouse IoT telemetry, and cold chain distribution.
 
 ---
 
@@ -171,8 +184,8 @@ I partner with business owners, startups, and agencies to design and deliver:
 
 <br/>
 
-![Public & Private Repositories](https://img.shields.io/badge/Total_Repositories-63_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white)
-![Platform Projects](https://img.shields.io/badge/Enterprise_Projects-50%2B_UAE_Platforms-D97706?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Public Repositories](https://img.shields.io/badge/Total_Repositories-80+_Projects-007ACC?style=for-the-badge&logo=github&logoColor=white)
+![Platform Projects](https://img.shields.io/badge/Enterprise_Projects-80_UAE_Platforms-D97706?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Build Success Rate](https://img.shields.io/badge/Build_Success-100%25_Prerendered-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)
 
 </div>
